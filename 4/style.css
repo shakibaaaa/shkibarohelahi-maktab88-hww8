@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: #eee;
+  width: 50%;
+  height: 400px;
+  left: 40px;
+  top: 40px;
+  border-style: solid;
+  position: relative;
+}
+.text {
+  font-size: 40px;
+  color: red;
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+  justify-content: left;
+  text-align: left;
+}

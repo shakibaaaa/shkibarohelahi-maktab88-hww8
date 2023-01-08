@@ -1,0 +1,15 @@
+*body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.green-box{
+    width: 50%;
+    min-height: 250px;
+    margin: 20px;
+    padding: 20px;
+ background-color: green;
+ color: white;
+ font-size: 20px;
+ cursor: default;
+}
